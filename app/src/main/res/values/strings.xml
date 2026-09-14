@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Phone Master</string>
+
+    <string name="phone_master_title">Складання смартфону</string>
+
+    <string name="stage_body">Етап 1: корпус смартфона</string>
+    <string name="stage_screen">Етап 2: екран смартфона</string>
+    <string name="stage_battery">Етап 3: акумулятор смартфона</string>
+    <string name="stage_camera">Етап 4: камера смартфона</string>
+    <string name="stage_complete">Етап 5: смартфон готовий</string>
+
+    <string name="button_restart">Почати знову</string>
+
+    <string name="button_install_screen">Встановити екран</string>
+    <string name="button_install_battery">Встановити акумулятор</string>
+    <string name="button_install_camera">Встановити камеру</string>
+    <string name="button_build_phone">Зібрати смартфон</string>
+</resources>
+
